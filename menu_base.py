@@ -1,6 +1,9 @@
 
 
 
+
+
+
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
