@@ -1,7 +1,9 @@
+
+
+
+
 def datos_benjamin():
     print("Mi nombre es Benjamín Monsalves y tengo 18 años.")
-
-
 # Menú base del programa
 while True:
     print("\n--- MENÚ PRINCIPAL ---")
